@@ -1,0 +1,7 @@
+C:\Users\fkost\source\repos\Ai_Lab4\bin\Debug\Ai_Lab4.exe.config
+C:\Users\fkost\source\repos\Ai_Lab4\bin\Debug\Ai_Lab4.exe
+C:\Users\fkost\source\repos\Ai_Lab4\bin\Debug\Ai_Lab4.pdb
+C:\Users\fkost\source\repos\Ai_Lab4\obj\Debug\Ai_Lab4.csproj.AssemblyReference.cache
+C:\Users\fkost\source\repos\Ai_Lab4\obj\Debug\Ai_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\fkost\source\repos\Ai_Lab4\obj\Debug\Ai_Lab4.exe
+C:\Users\fkost\source\repos\Ai_Lab4\obj\Debug\Ai_Lab4.pdb
